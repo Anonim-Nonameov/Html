@@ -1,4 +1,8 @@
-.html-info-header {
+body {
+	background-color: gray;
+	color: white;
+}
+ .html-info-header {
 	text-align: center;
 }
 .html-info-text {
@@ -19,6 +23,9 @@
 .html-creation-date {
 	display: inline;
 }
+.why-html-has-been-created {
+	display: inline;
+}
 .photo {
 	text-align: center;
 }
@@ -26,5 +33,7 @@
 	margin-left: 730px;
 }
 .photo2 {
-	margin-left: 400px;
+	margin-left: 510px;
+	margin-top: -190px;
+	width: 300px;
 }
